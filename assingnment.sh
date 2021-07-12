@@ -1,3 +1,6 @@
+#! /bin/bash
+
+
 echo "OS version"
 grep '^VERSION' /etc/os-release
 
